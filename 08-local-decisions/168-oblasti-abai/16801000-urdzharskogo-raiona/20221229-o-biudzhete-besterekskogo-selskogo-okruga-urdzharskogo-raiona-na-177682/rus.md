@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
+source: https://zan.gov.kz/client/#!/doc/177682/rus/10.05.2023
 ---
 
 # О бюджете Бестерекского сельского округа Урджарского района на 2023-2025 годы
@@ -10,39 +10,41 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 
 1. Утвердить бюджет Бестерекского сельского округа Урджарского района на 2023-2025 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2023 год в следующих объемах:
 
-   1) доходы – 42 826,0 тысяч тенге, в том числе:
+   1) доходы – 43 913,0 тысяч тенге, в том числе:
 
    налоговые поступления – 6 383,0 тысяч тенге;
 
-   неналоговые поступления - 0,0 тысяч тенге;
+   неналоговые поступления – 0,0 тысяч тенге;
 
-   поступления от продажи основного капитала - 0,0 тысяч тенге;
+   поступления от продажи основного капитала – 0,0 тысяч тенге;
 
-   поступления трансфертов – 36 443,0 тысяч тенге;
+   поступления трансфертов –37 530,0 тысяч тенге;
 
-   2) затраты – 42 826,0 тысяч тенге;
+   2) затраты –45 021,0 тысяч тенге;
 
-   3) чистое бюджетное кредитование - 0,0 тысяч тенге;
+   3) чистое бюджетное кредитование -0,0 тысяч тенге;
 
-   бюджетные кредиты - 0,0 тысяч тенге;
+   бюджетные кредиты -0,0 тысяч тенге;
 
-   погашение бюджетных кредитов - 0,0 тысяч тенге;
+   погашение бюджетных кредитов -0,0 тысяч тенге;
 
-   4) сальдо по операциям с финансовыми активами - 0,0 тысяч тенге;
+   4) сальдо по операциям с финансовыми активами -0,0 тысяч тенге;
 
    приобретение финансовых активов - 0,0 тысяч тенге;
 
-   поступления от продажи финансовых активов государства - 0,0 тысяч тенге;
+   поступления от продажи финансовых активов государство – 0,0 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – 0,0 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 1 108,0 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0,0 тысяч тенге;
+   6) финансирование дефицита (использование профицита) бюджета – 1 108,0 тысяч тенге;
 
-   поступление займов - 0,0 тысяч тенге;
+   поступление займов -0,0 тысяч тенге;
 
-   погашение займов - 0,0 тысяч тенге;
+   погашение займов – 0,0 тысяч тенге;
 
-   используемые остатки бюджетных средств – 0,0 тысяч тенге.».
+   используемые остатки бюджетных средств – 1 108,0 тысяч тенге.
+
+   > *Сноска. Пункт 1 в редакции решения Урджарского районного маслихата области Абай от 10.05.2023 № 2-44/VIII (вводится в действие с 01.01.2023).*
 
 2. Настоящее решение вводится в действие с 1 января 2023 года.
 
@@ -57,151 +59,153 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 
 ## Бюджет Бестерекского сельского округа Урджарского района на 2023 год
 
+> *Сноска. Приложение 1 в редакции решения Урджарского районного маслихата области Абай от 10.05.2023 № 2-44/VIII (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
-<td colspan="8">Категория</td>
+<td colspan="7">Категория</td>
 <td colspan="2" rowspan="4">Всего доходы (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Класс</td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="5">Подкласс</td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">2</td>
 <td>3</td>
-<td colspan="4">4</td>
+<td colspan="3">4</td>
 <td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">I. Доходы</td>
-<td colspan="2">42 826,0</td>
+<td colspan="3">I. Доходы</td>
+<td colspan="2">43 913,0</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Налоговые поступления</td>
+<td colspan="3">Налоговые поступления</td>
 <td colspan="2">6 383,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">02</td>
+<td colspan="2">01</td>
 <td></td>
-<td colspan="4">Подоходный налог</td>
+<td colspan="3">Подоходный налог</td>
 <td colspan="2">511,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td>01</td>
-<td colspan="4">Индивидуальный налог</td>
+<td>2</td>
+<td colspan="3">Индивидуальный налог</td>
 <td colspan="2">511,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
-<td colspan="4">Налоги на собственность</td>
+<td colspan="3">Налоги на собственность</td>
 <td colspan="2">5 872,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
-<td colspan="4">Налоги на имущество</td>
+<td colspan="3">Налоги на имущество</td>
 <td colspan="2">527,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
-<td colspan="4">Земельный налог</td>
+<td colspan="3">Земельный налог</td>
 <td colspan="2">91,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
-<td colspan="4">Налог на транспортные средства</td>
+<td colspan="3">Налог на транспортные средства</td>
 <td colspan="2">5 254,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Неналоговые поступления</td>
+<td colspan="3">Неналоговые поступления</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">06</td>
 <td></td>
-<td colspan="4">Прочие неналоговые поступления</td>
+<td colspan="3">Прочие неналоговые поступления</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
-<td colspan="4">Прочие неналоговые поступления</td>
+<td colspan="3">Прочие неналоговые поступления</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Поступления от продажи основного капитала</td>
+<td colspan="3">Поступления от продажи основного капитала</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
-<td colspan="4">Продажа государственного имущества,закрепленного за государтвенными учреждениями</td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
-<td colspan="4">Продажа государственного имущества,закрепленного за государтвенными учреждениями</td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Поступления трансфертов</td>
-<td colspan="2">36 443,0</td>
+<td colspan="3">Поступления трансфертов</td>
+<td colspan="2">37 530,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
-<td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">36 443,0</td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">37 530,0</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="8">Функциональная группа</td>
-<td colspan="2" rowspan="5">Всего затраты (тысяч тенге)</td>
+<td rowspan="5">Всего затраты (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -231,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">3</td>
 <td>4</td>
 <td colspan="2">5</td>
-<td colspan="2">6</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -239,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">II. Затраты</td>
-<td colspan="2">42 826,0</td>
+<td>45 021,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -247,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">34 039,0</td>
+<td>36 232,3</td>
 </tr>
 <tr>
 <td></td>
@@ -255,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">34 039,0</td>
+<td>36 232,3</td>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">34 039,0</td>
+<td>36 232,3</td>
 </tr>
 <tr>
 <td></td>
@@ -271,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">34 039,0</td>
+<td>36 232,3</td>
 </tr>
 <tr>
 <td>06</td>
@@ -279,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td colspan="2">7 304,0</td>
+<td>7 304,0</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Социальная помощь</td>
-<td colspan="2">6 784,0</td>
+<td>6 784,0</td>
 </tr>
 <tr>
 <td></td>
@@ -295,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">6 784,0</td>
+<td>6 784,0</td>
 </tr>
 <tr>
 <td></td>
@@ -303,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">6 784,0</td>
+<td>6 784,0</td>
 </tr>
 <tr>
 <td></td>
@@ -311,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td colspan="2">520,0</td>
+<td>520,0</td>
 </tr>
 <tr>
 <td></td>
@@ -319,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">520,0</td>
+<td>520,0</td>
 </tr>
 <tr>
 <td></td>
@@ -327,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>026</td>
 <td colspan="2">Обеспечение занятости населения на местном уровне</td>
-<td colspan="2">520,0</td>
+<td>520,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -335,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1 483,0</td>
+<td>1 483,0</td>
 </tr>
 <tr>
 <td></td>
@@ -343,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">1 483,0</td>
+<td>1 483,0</td>
 </tr>
 <tr>
 <td></td>
@@ -351,15 +355,15 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">1 483,0</td>
+<td>1 483,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3"></td>
 <td>008</td>
-<td colspan="2">Освещение улиц в населенных пунктов</td>
-<td colspan="2">647,0</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>647,0</td>
 </tr>
 <tr>
 <td></td>
@@ -367,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">836,0</td>
+<td>836,0</td>
 </tr>
 <tr>
 <td>14</td>
@@ -375,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Обслуживание долга</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -383,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Обслуживание долга</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -391,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -399,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>042</td>
 <td colspan="2">Обслуживание долга аппарата акима города районного значения, села, поселка, сельского округа по выплате вознаграждений и иных платежей по займам из районного (города областного значения) бюджета</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -407,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Трансферты</td>
-<td colspan="2">0,0</td>
+<td>1,7</td>
 </tr>
 <tr>
 <td></td>
@@ -415,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Трансферты</td>
-<td colspan="2">0,0</td>
+<td>1,7</td>
 </tr>
 <tr>
 <td></td>
@@ -423,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0,0</td>
+<td>1,7</td>
 </tr>
 <tr>
 <td></td>
@@ -431,7 +435,18 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>043</td>
 <td colspan="2">Бюджетные изъятия</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td>044</td>
+<td colspan="2">
+Возврат сумм неиспользованных
+(недоиспользованных) целевых трансфертов,выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан
+</td>
+<td>0,6</td>
 </tr>
 <tr>
 <td></td>
@@ -442,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 Возврат неиспользованных
 (недоиспользованных) целевых трансфертов
 </td>
-<td colspan="2">0,0</td>
+<td>1,1</td>
 </tr>
 <tr>
 <td></td>
@@ -450,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">III. Чистое бюджетное кредитование</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -458,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Бюджетные кредиты</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -466,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -474,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">01</td>
 <td></td>
 <td colspan="2">Погашение бюджетных кредитов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -482,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>1</td>
 <td colspan="2">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -490,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">IV. Сальдо по операциям с финансовыми активами</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -498,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Приобретение финансовых активов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -506,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Поступления от продажи финансовых активов государства</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -514,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td colspan="2">0,0</td>
+<td>-1 108,0</td>
 </tr>
 <tr>
 <td></td>
@@ -522,7 +537,10 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td colspan="2">0,0</td>
+<td>
+
+1 108,0
+</td>
 </tr>
 <tr>
 <td></td>
@@ -530,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Поступления займов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -538,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Поступления займов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -546,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">01</td>
 <td></td>
 <td colspan="2">Внутренние государственные займы</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -554,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>2</td>
 <td colspan="2">Договоры займа</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>16</td>
@@ -562,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -570,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -578,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -586,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>054</td>
 <td colspan="2">Возврат, использованных не по целевому назначению кредитов, выданных из районного (города областного значения) бюджета</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -594,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>055</td>
 <td colspan="2">Возврат неиспользованных бюджетных кредитов, выданных из районного (города областного значения) бюджета</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -602,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>056</td>
 <td colspan="2">Погашение долга аппарата акима города районного значения, села, поселка, сельского округа перед вышестоящим бюджетом</td>
-<td colspan="2">0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td></td>
@@ -610,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
+<td>1 108,0</td>
 </tr>
 <tr>
 <td></td>
@@ -618,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3">01</td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
+<td>1 108,0</td>
 </tr>
 <tr>
 <td></td>
@@ -626,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/177682/rus/29.12.2022
 <td colspan="3"></td>
 <td>1</td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0,0</td>
+<td>1 108,0</td>
 </tr>
 </table>
 
