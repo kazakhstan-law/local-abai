@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204530/kaz/13.12.2024
+source: https://zan.gov.kz/client/#!/doc/204530/kaz/30.04.2025
 ---
 
 > *Абай облысы мәслихатының*  
