@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205665/kaz/25.12.2024
+source: https://zan.gov.kz/client/#!/doc/205665/kaz/13.05.2025
 ---
 
 > *Ақсуат ауданы мәслихатының*  
