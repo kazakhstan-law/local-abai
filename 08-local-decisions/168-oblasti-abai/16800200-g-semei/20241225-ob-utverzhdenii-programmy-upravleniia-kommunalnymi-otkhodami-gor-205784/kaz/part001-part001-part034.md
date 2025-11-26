@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205784/kaz/25.12.2024
+source: https://zan.gov.kz/client/#!/doc/205784/kaz/26.11.2025
 ---
 
 ## 7.3 Бағдарламаның нысаналы көрсеткіштері
