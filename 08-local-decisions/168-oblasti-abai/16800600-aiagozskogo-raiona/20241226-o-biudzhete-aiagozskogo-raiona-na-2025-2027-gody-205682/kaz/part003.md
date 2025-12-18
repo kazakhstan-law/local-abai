@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205682/kaz/15.10.2025
+source: https://zan.gov.kz/client/#!/doc/205682/kaz/18.12.2025
 ---
 
 > *Аягөз аудандық мәслихатнының*  
