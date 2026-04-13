@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/219364/rus/18.12.2025
+source: https://zan.gov.kz/client/#!/doc/219364/rus/13.04.2026
 ---
 
 # О бюджете района Ақсуат на 2026 – 2028 годы
