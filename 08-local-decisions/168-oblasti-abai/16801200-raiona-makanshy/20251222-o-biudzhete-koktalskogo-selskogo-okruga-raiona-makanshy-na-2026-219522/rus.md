@@ -1,5 +1,5 @@
 ---
-version_id: '219522_795049'
+version_id: '219522_828081'
 act_code: '219522'
 language: rus
 title: О бюджете Коктальского сельского округа района Мақаншы на 2026-2028 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '168012000002'
 approval_date: 2025-12-22
-version_date: 2025-12-22
+version_date: 2026-04-24
 registry_number: '219522'
-source: https://zan.gov.kz/client/#!/doc/219522/rus/22.12.2025
+caused_by:
+  code: '224584'
+  title: О внесении изменений в решение маслихата района Мақаншы от 22 декабря 2025 года № 31-222/VIII «О бюджете Коктальского сельского округа района Мақаншы на 2026-2028 годы»
+  link: https://zan.gov.kz/client/#!/doc/224584/rus
+source: https://zan.gov.kz/client/#!/doc/219522/rus
 ---
 
 # О бюджете Коктальского сельского округа района Мақаншы на 2026-2028 годы
